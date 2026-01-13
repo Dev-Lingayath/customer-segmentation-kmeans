@@ -62,7 +62,4 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ---
 
-## How to Run
-1. Install dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+
